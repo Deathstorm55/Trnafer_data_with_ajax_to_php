@@ -46,7 +46,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `unique_id`, `fname`, `lname`, `email`, `phone`, `image`, `password`, `otp`, `verification_status`, `Role`) VALUES
-(1, 1705584202, 'Adeniyi', 'Adeboye Ifeoluwa', 'ifeadeniyi8@gmail.com', '07040314155', '1721831134banner9.jpg', '202cb962ac59075b964b07152d234b70', '0', 'Verified', 'user');
+(1, 1705584202, 'Josh', 'Stewart', 'example@mail.com', '01234567890', '1721831134banner9.jpg', '202cb962ac59075b964b07152d234b70', '0', 'Verified', 'user');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
